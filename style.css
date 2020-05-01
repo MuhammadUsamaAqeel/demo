@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+p{
+    color:red;
+}
+body{
+    background-color: cyan;
+}
+h1.p{
+    color: brown;
+}
